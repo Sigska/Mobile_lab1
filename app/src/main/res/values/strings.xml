@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_Project_no_kotlin</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_send">send</string>
+    <string-array name ="spinnerItems">
+        <item> troll</item>
+        <item> gnome</item>
+        <item> elf</item>
+    </string-array>
+
+</resources>
